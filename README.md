@@ -28,7 +28,7 @@ Work Experience
 Papers
 ------
 *   Learning Object’s Scale with Clicks for Object Detection.
-    -    Propose a simple yet effective framework which combines CNN visualization and center clicks to generate more tight            pseudo bounding box used for traininga fully-supervised object detector. Note that our method can also be used to            annotate instance-level bounding box or pixel-level annotation used for semantic segmentation.
+    -    Propose a simple yet effective framework which combines CNN visualization and center clicks to generate more tight            pseudo bounding box used for training a fully-supervised object detector. Note that our method can also be used to            annotate instance-level bounding box or pixel-level annotation used for semantic segmentation.
     -    Evaluations on PASCAL VOC 2007 and 2012 show that our method surpasses all state-of-art weakly-supervised detection          methods and center click based methods by a significant margin.
     -    Aimming for ICCV2019.
     
