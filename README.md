@@ -1,22 +1,31 @@
 Liao Zhang
 ===============
-my blog website:https://blog.csdn.net/zhangliaobet
+my blog website: https://blog.csdn.net/zhangliaobet
+my email: leochang@stu.xmu.edu.cn
 Interests
 ---------
 
-*   Creating beautiful resumés from simple Markdown documents
+*   Deep Learning, Machine Learing, Object Detection
 
+Education
+---------
+
+*   B.E., Internet of Things, Physics and Information College, FuZhou University, 2012-2016.
+*   M.S., Computer Science, School of Information Science and Engineering, XiaMen University 2017-now.
+
+Patents
+---------
+*   2016.6, A wood measurement system and its relevant methods based on depth sensor, patent Id: 201610455749.4, patent type:     invention.
+*   2016.4, A school-bus location system based on Wechat, patent Id: 201620445463.3, patent type: utility.
 
 Work Experience
 ---------------
-
-*   **Word Processor** (Redmond, WA)
-
-    *Junior Resumé Maker*, 2006 - 2007
-
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+*   2016.7-present ,assistant engineer of software development,Co.ltd.ChinaNetCenter 
+    -   In charge of audio and video development, e.g. decode H264 or H265 Video
+        via MediaCodec by using hardware in Android platform, decode video via
+        FFMpeg by using software and de-package FLV, render video and synchronize
+         the audio and video. 
+    -   Awarded innovation prize(team prize) of ChinaNetCenter in 2016.
 
 *   **\LaTeX\ + pdflatex**
 
@@ -48,15 +57,6 @@ Work Experience
         top right of the page in both HTML and PDF output.
     -   Use a text-based resumé when needed in a pinch
     -   Use version control, including free hosting on Github
-
-
-Education
----------
-
-*   **Github University** (World Wide Web)
-
-    *B.S. in Submodules*, May 2012
-
 
 Skills
 ------
