@@ -10,7 +10,7 @@ Interests
 Education
 ---------  
 *   B.E., Internet of Things, Physics and Information College, FuZhou University, 2012-2016.
-*   M.S., Computer Science, School of Information Science and Engineering, XiaMen University 2017-now.
+*   M.S., Computer Science, School of Information Science and Engineering, XiaMen University, 2017-now.
 
 Patents
 ---------
