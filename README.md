@@ -22,7 +22,7 @@ Patents
 Work Experience
 ---------------
 *   2016.7-2017.7, Assistant engineer of software development, Co.ltd.ChinaNetCenter 
-    -   In charge of audio and video development, e.g. decode H264 or H265 Video via MediaCodec by using hardware in Android           platform, decode video via FFMpeg by using software and de-package FLV, render video and synchronize the audio and           video. 
+    -   In charge of audio and video development, e.g. decode H264 or H265 Video via MediaCodec by using hardware in Android         platform, decode video via FFMpeg by using software and de-package FLV, render video and synchronize the audio and           video. 
     -   Awarded innovation prize(team prize) of ChinaNetCenter in 2016.
 
 Papers
@@ -38,7 +38,7 @@ Skills
 *   Experienced with Python, familiar with C, C++, MatLab.
 *   Deep Learning Framework: Caffe, TensorFlow.
 *   Familiar with CUDA C++ Programming.
-*   Commonly used Deep Learning Model: AlexNet, VGG, GoogleNet, ResNet, SqueezeNet etc.
-*   Familiar with the-state-of-arts Object Detection Method: RCNN, Fast-RCNN, Faster-RCNN,RFCN, YOLO, SSD etc.
+*   Commonly used Deep Learning Model: AlexNet, VGG, GoogleNet, ResNet, SqueezeNet, etc.
+*   Familiar with the-state-of-arts Object Detection Method: RCNN, Fast-RCNN, Faster-RCNN,RFCN, YOLO, SSD, etc.
 
 
