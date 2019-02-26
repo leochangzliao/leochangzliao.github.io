@@ -1,6 +1,6 @@
 Liao Zhang
 ===============
-my blog website: https://blog.csdn.net/zhangliaobet
+my blog website: https://blog.csdn.net/zhangliaobet \n
 my email: leochang@stu.xmu.edu.cn
 Interests
 ---------
