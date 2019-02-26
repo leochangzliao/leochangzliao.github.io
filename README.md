@@ -28,7 +28,7 @@ Work Experience
 Papers
 ------
 *   Learning Object’s Scale with Clicks for Object Detection
-    -    Propose a simple yet effective framework combing with CNN visualization and center clicks to generate more tight              pseudo bounding box used for traininga fully-supervised object detector. Note that our method can also be used to            annotate instance-level bounding box or pixel-level annotation used for semantic segmentation.
+    -    Propose a simple yet effective framework which combines CNN visualization and center clicks to generate more tight            pseudo bounding box used for traininga fully-supervised object detector. Note that our method can also be used to            annotate instance-level bounding box or pixel-level annotation used for semantic segmentation.
     -    Evaluations on PASCAL VOC 2007 and 2012 show that our method surpasses all state-of-art weakly-supervised detection          methods and center click based methods by a significant margin.
     -    Aimming for ICCV2019.
     
@@ -39,6 +39,6 @@ Skills
 *   Deep Learning Framework: Caffe, TensorFlow.
 *   Familiar with CUDA C++ Programming.
 *   Commonly used Deep Learning Model: AlexNet, VGG, GoogleNet, ResNet, SqueezeNet, etc.
-*   Familiar with the-state-of-arts Object Detection Method: RCNN, Fast-RCNN, Faster-RCNN,RFCN, YOLO, SSD, etc.
+*   Familiar with the-state-of-art Object Detection Method: RCNN, Fast-RCNN, Faster-RCNN,RFCN, YOLO, SSD, etc.
 
 
