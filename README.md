@@ -39,6 +39,7 @@ Skills
 *   Familiar with CUDA C++ Programming.
 *   Commonly used Deep Learning Model: AlexNet, VGG, GoogleNet, ResNet, SqueezeNet, etc.
 *   Familiar with the-state-of-art Object Detection Method: RCNN, Fast-RCNN, Faster-RCNN,RFCN, YOLO, SSD, etc.  
+
 Campus Activity & Scholarship
 -----
 *   Academic Excellence Scholarship of XiaMen University.  2017.7
