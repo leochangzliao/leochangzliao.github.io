@@ -1,7 +1,6 @@
 Liao Zhang
 ===============
-Blog Website: https://blog.csdn.net/zhangliaobet  
-My Email: leochang@stu.xmu.edu.cn
+Blog Website: https://blog.csdn.net/zhangliaobet  My Email: leochang@stu.xmu.edu.cn
 
 Interests
 ---------  
@@ -34,10 +33,15 @@ Papers
     
 Skills
 ------
+*   CET4/6 certificate.
 *   Experienced with Python, familiar with C, C++, MatLab.
 *   Deep Learning Framework: Caffe, TensorFlow.
 *   Familiar with CUDA C++ Programming.
 *   Commonly used Deep Learning Model: AlexNet, VGG, GoogleNet, ResNet, SqueezeNet, etc.
 *   Familiar with the-state-of-art Object Detection Method: RCNN, Fast-RCNN, Faster-RCNN,RFCN, YOLO, SSD, etc.
 
-
+Campus Activity & Scholarship
+-----
+*   Academic Excellence Scholarship of XiaMen University. 
+*   The Third Prize Scholarship of FuZhou University.
+*   The Volunteer of the 7^{th} IEEE Conference on Future Multimedia Technologies.
