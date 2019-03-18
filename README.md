@@ -50,4 +50,4 @@ Competition
 -----
 *   iMaterialist Challenge (Furniture) at FGVC5 Mar 2018 – May 2018.
 *   Enrolled in iMaterialist Challenge (Furniture) at FGVC5 for Image Classification of Furniture & Home Goods.
-*   Got 86 place in 436 teams(at the deadline(5/31/2018) of competition), top 19%, won the bronze medal.
+*   Got 84 place in 428 teams(at the deadline(5/31/2018) of competition), top 19%, won the bronze medal.
