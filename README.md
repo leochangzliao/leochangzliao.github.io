@@ -38,10 +38,9 @@ Skills
 *   Deep Learning Framework: Caffe, TensorFlow.
 *   Familiar with CUDA C++ Programming.
 *   Commonly used Deep Learning Model: AlexNet, VGG, GoogleNet, ResNet, SqueezeNet, etc.
-*   Familiar with the-state-of-art Object Detection Method: RCNN, Fast-RCNN, Faster-RCNN,RFCN, YOLO, SSD, etc.
-
+*   Familiar with the-state-of-art Object Detection Method: RCNN, Fast-RCNN, Faster-RCNN,RFCN, YOLO, SSD, etc.  
 Campus Activity & Scholarship
 -----
 *   Academic Excellence Scholarship of XiaMen University.  2017.7
 *   The Third Prize Scholarship of FuZhou University.      2015.9
-*   The Volunteer of the 7<sup>th</sup> IEEE Conference on Future Multimedia Technologies. 2018.7
+*   The Volunteer of the 7<sup>th</sup> IEEE Conference on Future Multimedia Technologies. 2018.8
