@@ -45,3 +45,9 @@ Campus Activity & Scholarship
 *   Academic Excellence Scholarship of XiaMen University.  2017.7
 *   The Third Prize Scholarship of FuZhou University.      2015.9
 *   The Volunteer of the 7<sup>th</sup> IEEE Conference on Future Multimedia Technologies. 2018.8
+
+Competition
+-----
+*   iMaterialist Challenge (Furniture) at FGVC5 Mar 2018 – May 2018.
+*   Enrolled in iMaterialist Challenge (Furniture) at FGVC5 for Image Classification of Furniture & Home Goods.
+*   Got 86 place in 436 teams(at the deadline(5/31/2018) of competition), top 19%, won the bronze medal.
