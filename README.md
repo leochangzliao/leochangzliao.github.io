@@ -42,6 +42,6 @@ Skills
 
 Campus Activity & Scholarship
 -----
-*   Academic Excellence Scholarship of XiaMen University. 
-*   The Third Prize Scholarship of FuZhou University.
-*   The Volunteer of the 7^{th} IEEE Conference on Future Multimedia Technologies.
+*   Academic Excellence Scholarship of XiaMen University.  2017.7
+*   The Third Prize Scholarship of FuZhou University.      2015.9
+*   The Volunteer of the 7<sup>th</sup> IEEE Conference on Future Multimedia Technologies. 2018.7
